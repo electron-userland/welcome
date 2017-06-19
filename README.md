@@ -10,3 +10,5 @@ This is an organization for modules that meet the following criteria:
 The last point is important. Modules that have no existing maintenance issues should probably not get transferred to this organization.
 
 For modules that have grown beyond the scope their original creators intended this organization provides a governance structure and neutral ownership model to help modules get new contributors and maintainers.
+
+This project adheres to the Contributor Covenant [code of conduct](http://contributor-covenant.org). By participating, you are expected to uphold this code.
