@@ -14,4 +14,4 @@ For modules that have grown beyond the scope their original creators intended th
 This project adheres to the Contributor Covenant [code of conduct](http://contributor-covenant.org). By participating, you are expected to uphold this code.
 
 # Logo
-You can find the [raw Sketch file here](https://slack-files.com/T394SAQKC-FCB66V0RM-ca906e3868). When using the Electron or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+You can find the [raw Sketch file here](https://slack-files.com/T394SAQKC-FC9J2UA2D-7a04289831). When using the Electron or other GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
