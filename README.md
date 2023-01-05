@@ -2,7 +2,7 @@
 
 This is an organization for modules that meet the following criteria:
 
-- Want to use http://openopensource.org/ governance
+- Want to use [open source](https://opensource.org/) governance
 - Would benefit from having neutral ownership (e.g. anyone can become a maintainer)
 - Provide a generally useful function to the electron community
 - Would otherwise not be maintained effectively
